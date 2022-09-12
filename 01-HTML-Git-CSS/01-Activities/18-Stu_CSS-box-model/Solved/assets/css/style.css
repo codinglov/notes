@@ -9,10 +9,10 @@ img {
   width: 200px;
   height: 200px;
   background-color: lightblue;
-  /* Padding property */
-  padding: 20px;
   /* Margin property */
   margin: 20px;
+  /* Padding property */
+  padding: 20px;
   /* Border property */
-  border: 9 solid darkblue;
+  border: 9px solid darkblue;
 }
